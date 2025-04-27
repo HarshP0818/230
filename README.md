@@ -1,0 +1,11 @@
+The Gaming Room was a client looking to expand their existing game, "Draw It or Lose It," to a broader market by making it available across multiple platforms. They needed a software design that would allow the game to work on Android, iOS, Windows, and web browsers, while keeping the experience consistent across all devices. The client wanted a design that emphasized scalability, reusability of code, and an organized system architecture to support future growth.
+
+One thing I did particularly well in developing the documentation was creating clear and organized design specifications. I made sure to break down system components, describe their responsibilities, and outline how they would interact. This level of detail made it much easier to translate the design into code later.
+
+Working through the design document first was very helpful because it forced me to think carefully about the structure and flow of the application before writing a single line of code. It made the coding phase more efficient because I had a roadmap to follow and fewer surprises or rework along the way.
+
+If I could revise one part of my work, I would spend more time on the user interface (UI) design section. I initially focused heavily on the system backend and architecture but gave less attention to wireframes or visual layouts. To improve, I would include more detailed mockups and user experience considerations to make sure the design fully supports a smooth, intuitive experience.
+
+To interpret the user’s needs, I carefully read the client’s goals, user stories, and requirements, then made sure the design prioritized accessibility, ease of use, and consistency across platforms. Considering the user’s needs is critical in software design because if the application doesn’t align with what users expect or need, it won’t be successful no matter how technically strong it is.
+
+When approaching software design, I broke down the project into smaller modules and focused on how they would communicate with each other. In the future, I would continue using strategies like modular design, UML diagrams, and user story mapping to make sure the architecture is flexible and user-centered. I would also prioritize early testing of design assumptions through prototypes to catch potential issues sooner.
